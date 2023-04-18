@@ -1,2 +1,2 @@
 # firebase-grahql-sample
-firebase + grashqlのサンプル
+firebase + grahqlのサンプル
